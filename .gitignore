@@ -11,3 +11,6 @@ obj/
 
 # Rider
 .idea/
+
+# Claude Code
+.claude/
